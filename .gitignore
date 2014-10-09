@@ -28,3 +28,11 @@ proguard/
 *.iws
 .idea/
 
+# This project
+.settings/
+assets/
+libs/
+res/
+AndroidManifest.xml
+proguard-project.txt
+project.properties
